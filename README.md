@@ -1,3 +1,5 @@
+<img width="500" height="160" alt="image" src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.png" />
+
 # Guia Completo — Arch Linux + KDE Plasma + Btrfs + LVM + Snapper 
 
 ## Objetivo
