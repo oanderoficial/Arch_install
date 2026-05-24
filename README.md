@@ -896,3 +896,8 @@ Sistema final:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9763bb8-5d13-46f6-b1b7-d42b10948dab" />
 
+<br> 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5ec53bd-7bd2-4c70-8f18-1f8b8b9cb012" />
+
+
