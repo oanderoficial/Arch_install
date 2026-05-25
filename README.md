@@ -40,7 +40,7 @@ vgarch-home -> /home
 # Com esta estrutura:
 
 * snapshots incluem kernel/initramfs
-* rollback mais fácl
+* rollback mais fácil
 * `/home` fica separado
 * snapshots ficam menores
 * root não enche rapidamente
